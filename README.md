@@ -10,5 +10,5 @@ that the user fits the requirements of the generator.
 
 I am honestly not sure what makes my project stand out as it is a simple password generator but you might find it useful. 
 
-![Alt text](image.png)
-Screenshot of program working
+
+https://ihyphy.github.io/Challenge-3-JS/
